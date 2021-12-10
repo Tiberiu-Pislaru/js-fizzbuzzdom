@@ -47,3 +47,13 @@ h1{
 .box-fizzBuzz{
     background-color:#f0466f;
 }
+
+.box:hover{
+    opacity: 0.7;
+    box-shadow: 0 0 5px 10px wheat;
+    border-radius: 10px;
+}
+
+h1:hover{
+    color: greenyellow;
+}
